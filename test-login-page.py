@@ -5,7 +5,8 @@ def bla (a, b):
     return a * b
 
 
-
+def pisicuta():
+    print("pis pis pus")
 
 
 def pisicuta():
