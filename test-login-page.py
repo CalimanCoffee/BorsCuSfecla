@@ -8,3 +8,5 @@ def bla (a, b):
 
 
 
+def pisicuta():
+    print("pis pis pis")
