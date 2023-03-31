@@ -11,3 +11,8 @@ def pisicuta():
 
 def pisicuta():
     print("pis pis pis")
+
+
+def catelusu():
+    print('hau hau')
+
