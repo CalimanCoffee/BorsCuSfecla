@@ -16,3 +16,6 @@ def pisicuta():
 def catelusu():
     print('hau hau')
 
+
+def hamster():
+    print('kits-kits')
