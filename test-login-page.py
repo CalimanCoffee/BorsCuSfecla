@@ -24,3 +24,9 @@ def catelusu():
 
 def hamster():
     print('kits-kits')
+
+def calutu():
+    return 0
+
+def devided():
+    return 0
