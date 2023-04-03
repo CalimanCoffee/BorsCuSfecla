@@ -13,6 +13,11 @@ def pisicuta():
     print("pis pis pis")
 
 
+def calutu():
+    return 0
+
+
+
 def catelusu():
     print('hau hau')
 
